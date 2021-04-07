@@ -3,9 +3,11 @@ using Microsoft.Extensions.Configuration;
 using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.Conventions;
 using MongoDB.Driver;
+using mongoDIO.Data.Collections;
 
-namespace mongoDIO.Data.Collections
+namespace MongoDIO.Data
 {
+
     public class MongoDB
     {
         public IMongoDatabase DB { get; }

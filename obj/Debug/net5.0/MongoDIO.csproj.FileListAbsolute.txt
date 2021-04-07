@@ -1,0 +1,7 @@
+D:\Eu\projetos\Testes\DIO\MongoDB + .NET\MongoDIO\obj\Debug\net5.0\MongoDIO.csprojAssemblyReference.cache
+D:\Eu\projetos\Testes\DIO\MongoDB + .NET\MongoDIO\obj\Debug\net5.0\MongoDIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eu\projetos\Testes\DIO\MongoDB + .NET\MongoDIO\obj\Debug\net5.0\MongoDIO.AssemblyInfoInputs.cache
+D:\Eu\projetos\Testes\DIO\MongoDB + .NET\MongoDIO\obj\Debug\net5.0\MongoDIO.AssemblyInfo.cs
+D:\Eu\projetos\Testes\DIO\MongoDB + .NET\MongoDIO\obj\Debug\net5.0\MongoDIO.csproj.CoreCompileInputs.cache
+D:\Eu\projetos\Testes\DIO\MongoDB + .NET\MongoDIO\obj\Debug\net5.0\MongoDIO.MvcApplicationPartsAssemblyInfo.cs
+D:\Eu\projetos\Testes\DIO\MongoDB + .NET\MongoDIO\obj\Debug\net5.0\MongoDIO.MvcApplicationPartsAssemblyInfo.cache
