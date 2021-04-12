@@ -3,26 +3,20 @@ using MongoDB.Driver;
 using mongoDIO.Data.Collections;
 using MongoDIO.Model;
 
-
-
 namespace MongoDIO.Controllers
 {
-    public class InfectadosController
+    public class InfectadoController
     {
         [ApiController]
         [Route("[controller]")]
-
         public class infectadosController : ControllerBase
         {
             Data.MongoDB _MongoDB;
-
             IMongoCollection<Infectados> _infectadosCollection;
-
             public infectadosController(Data.MongoDB mongoDB)
             {
                 _MongoDB = mongoDB;
                 _infectadosCollection = _MongoDB.DB.GetCollection<Infectados>(typeof(Infectados).Name.ToLower());
-
             }
 
             [HttpPost]
@@ -44,6 +38,6 @@ namespace MongoDIO.Controllers
 
                 return Ok(Infectados);
             }
-        }
+        }   
     }
 }
